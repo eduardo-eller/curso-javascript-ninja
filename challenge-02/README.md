@@ -24,7 +24,7 @@ Onde VALOR é o novo valor da variável.
 */
 function adiciona (x) {
 	floki = x;
-	return 'O valor da variável agora é: ' + x +'.';
+	return 'O valor da variável agora é: ' + floki +'.';
 };
 
 // Invoque a função criada acima.
